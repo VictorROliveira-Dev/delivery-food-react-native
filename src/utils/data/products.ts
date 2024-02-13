@@ -119,12 +119,12 @@ const MENU = [
     data: [
       {
         id: "7",
-        title: "Hmmm, coquinha!",
+        title: "Coca-Cola Lata",
         price: 6.9,
         thumbnail: require("../../assets/products/thumbnail/7.png"),
         cover: require("../../assets/products/cover/7.png"),
         description:
-          "Uma coca super gelada para acompanhar o seu super lanche...",
+          "Uma coca super gelada de 350ml para acompanhar o seu super lanche...",
         ingredients: [],
       },
     ],
